@@ -1,6 +1,6 @@
 (function () {
   var hbScript = document.createElement("script");
   hbScript.async = true;
-  hbScript.src = "https://my.hellobar.com/4093d06fd4de0bf422a37110bed1ede31e999683.js";
+  hbScript.src = "https://my.hellobar.com/7b66a980171a6371913aa19deeb3847f6992c96f.js";
   document.head.appendChild(hbScript);
 })();
